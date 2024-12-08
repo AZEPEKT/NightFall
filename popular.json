@@ -7,7 +7,7 @@
     },
     {
         "title": "Card 2",
-        "price": "Description of Card 2",
+        "desc": "Description of Card 2",
         "category": "new",
         "image": "https://via.placeholder.com/150"
     },
