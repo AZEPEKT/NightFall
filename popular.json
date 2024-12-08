@@ -1,12 +1,12 @@
 [
     {
         "title": "Script 1",
-        "description": "Beschreibung des ersten Scripts tralala.",
+        "price": "Beschreibung des ersten Scripts tralala.",
         "image": "https://example.com/script1-image.jpg"
     },
     {
         "title": "Script 2",
-        "description": "Beschreibung des zweiten Scripts.",
+        "price": "Beschreibung des zweiten Scripts.",
         "image": "https://example.com/script2-image.jpg"
     }
 ]
