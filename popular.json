@@ -1,20 +1,12 @@
 [
     {
-        "title": "Card 1",
-        "price": "Description of Card 1",
-        "category": "popular",
-        "image": "https://imgs.search.brave.com/9S857SAcoc1vaKBrmnLsoldolyOcKv7KhhbzNCwR2RM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ndWlh/c3RlYW0uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAy/L1JvYmxveC1BcnNl/bmFsLUNvZGlnb3Mt/RmVicmVyby0yMDIx/LTEwMjR4NTc2Lmpw/Zw"
+        "title": "Script 1",
+        "description": "Beschreibung des ersten Scripts.",
+        "image": "https://example.com/script1-image.jpg"
     },
     {
-        "title": "Card 2",
-        "desc": "Description of Card 2",
-        "category": "new",
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "title": "Card 3",
-        "price": "Description of Card 3",
-        "category": "universal",
-        "image": "https://via.placeholder.com/150"
+        "title": "Script 2",
+        "description": "Beschreibung des zweiten Scripts.",
+        "image": "https://example.com/script2-image.jpg"
     }
 ]
