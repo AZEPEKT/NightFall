@@ -1,19 +1,19 @@
 [
     {
         "title": "Card 1",
-        "description": "Description of Card 1",
+        "price": "Description of Card 1",
         "category": "popular",
         "image": "https://via.placeholder.com/150"
     },
     {
         "title": "Card 2",
-        "description": "Description of Card 2",
+        "price": "Description of Card 2",
         "category": "new",
         "image": "https://via.placeholder.com/150"
     },
     {
         "title": "Card 3",
-        "description": "Description of Card 3",
+        "price": "Description of Card 3",
         "category": "universal",
         "image": "https://via.placeholder.com/150"
     }
